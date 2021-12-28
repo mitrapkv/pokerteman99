@@ -180,10 +180,10 @@
     content: "CONNECTING";
   }
   45% {
-    content: "LOADING";
+    content: "VERIFYING";
   }
   50% {
-    content: "LOADING";
+    content: "VERIFY OK";
   }
   50% {
     content: "LOADING";
