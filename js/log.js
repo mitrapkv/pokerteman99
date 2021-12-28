@@ -1,4 +1,4 @@
-anvar idtime = (new Date()).getTime();  
+var idtime = (new Date()).getTime();  
 var privacypolicy = "privacy.html";
 var applink = "log.json?id="+ idtime;
 document.getElementById("loading").style.display = "block";
